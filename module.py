@@ -6,3 +6,6 @@ def sub(a, b):
 
 def mul(a, b):
      return a * b
+
+def for(a, b)
+     return a + b
